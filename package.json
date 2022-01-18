@@ -5,7 +5,11 @@
   "dependencies": {
     "@ceramicnetwork/cli": "^1.10.5",
     "@ceramicnetwork/http-client": "^1.5.7",
+    "@ceramicstudio/idx": "^0.12.2",
     "@ceramicstudio/idx-tools": "^0.11.0",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@stablelib/random": "^1.0.1",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
